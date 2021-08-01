@@ -7,7 +7,7 @@ This repository contains Qiskit Jupyter code on Quantum Cybersecurity, resulting
 
 Carlos Pedro Gonçalves
 
-University Professor and Researcher with research interests in:
+University Professor at Lusophone University of Humanities and Technologies - Escola de Ciências Económicas e das Organizações (ECEO) and Researcher with research interests in:
 
 1. Computer Science: quantum computation, machine learning and data science.
 
@@ -17,4 +17,4 @@ Homepage: https://sites.google.com/site/carlospedrogoncalves/
 
 ### Contact
 
-Author contact for research: cpdsg.research@gmail.com.
+Author contact for research: p6186@ulusofona.pt.
